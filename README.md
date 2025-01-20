@@ -1,6 +1,6 @@
 ## About Me
 
-- ❔ Pronouns: He/Him.
+- 🐍 Pronouns: He/Him.
 - 🌱 I’m currently learning **Android app development** and **Python programming**.
 - ⚡ I’m looking to collaborate on interesting projects that can help me grow my skills.
 - ❄️ Fun fact: **I'm a Human!** *I like learning new things – more like* `Jack of all trades, master of none!`
