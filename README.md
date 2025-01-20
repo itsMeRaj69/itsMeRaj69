@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Android app development** and **Python programming**.
 - ⚡ I’m looking to collaborate on interesting projects that can help me grow my skills.
 - ❄️ Fun fact: **I'm a Human!** *I like learning new things – more like* `Jack of all trades, master of none!`
-- ❔ How to reach me: [Click Here!](https://github.com/itsMeRaj69/itsMeRaj69/blob/main/README.md#github-stats )
+- ❔ How to reach me: [Click Here!](https://github.com/itsMeRaj69/itsMeRaj69/blob/main/README.md#connect-with-me)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsMeRaj69) 
 
