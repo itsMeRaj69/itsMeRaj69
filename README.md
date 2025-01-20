@@ -1,13 +1,11 @@
-## Hello, I'm Raj!
-
 ![Profile Views](https://komarev.com/ghpvc/?username=itsMeRaj69)
 
 ## About Me
 
 - 🌱 I’m currently learning **Android app development** and **Python programming**.
-- ❔ I’m looking to collaborate on interesting projects that can help me grow my skills.
-- ⚡ Fun fact: **I'm a Human!** I like learning new things – more like *Jack of all trades, master of none!*
-- 📫 How to reach me: *<I'll add them soon>*
+- ⚡ I’m looking to collaborate on interesting projects that can help me grow my skills.
+- ❄️ Fun fact: **I'm a Human!** I like learning new things – more like *Jack of all trades, master of none!*
+- ❔ How to reach me: *<I'll add them soon>*
 
 ## Skills
 
