@@ -19,7 +19,7 @@
 
 Here are some of the projects I've worked on:
 
-- [Localtonet-mc](https://github.com/itsMeRaj69/localtonet-mc ) - An app that does amazing things!
+- [Localtonet-mc](https://github.com/itsMeRaj69/localtonet-mc ) - Publish your Minecraft server to the internet using LocaltoNet.
 - [Personal Portfolio] - `Coming Soon!`
 
 ## GitHub Stats
@@ -31,4 +31,3 @@ Here are some of the projects I've worked on:
 - [Discord](https://discord.com/users/)
 - [Telegram](https://iamraj69.t.me)
 - [Instagram](https://instagram.com/iam_raj.69)
-- [Personal Website](link)
