@@ -3,7 +3,7 @@
 - ❄️ Pronouns: He/Him.
 - ✨ I’m currently learning **Android app development** and **Python programming**.
 - 🥢 Fun fact: **I'm a Human!** *I like learning new things – more like* `Jack of all trades, master of none!`
-- ❔ How to reach me: [Click Here!](https://github.com/itsMeRaj69/itsMeRaj69#connect-with-me)
+- ❔ How to reach me: [Click Here!](https://github.com/itsMeRaj69#connect-with-me)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itsMeRaj69) 
 
