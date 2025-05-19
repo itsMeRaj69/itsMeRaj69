@@ -17,7 +17,8 @@
 
 Here are some of the projects I've worked on:
 
-- [Localtonet-mc](https://github.com/itsMeRaj69/localtonet-mc ) - Publish your Minecraft server to the internet using LocaltoNet.
+- [Localtonet MC](https://github.com/itsMeRaj69/localtonet-mc ) - Publish your Minecraft server to the internet using LocaltoNet.
+- [Tailscale in Codespaces](https://github.com/itsMeRaj69/tailscale-codespaces) - Run Tailscale VPN inside of Github Codespaces
 - [Personal Portfolio] - `Coming Soon!`
 
 ## GitHub Stats
