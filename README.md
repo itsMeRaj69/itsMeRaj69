@@ -6,7 +6,7 @@
 - 🎐 GitHub Grade: C+ – Certified Love Dev (I commit feelings more than code sometimes)
 - ❔ How to reach me: [Click Here!](https://github.com/itsMeRaj69#connect-with-me)
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsMeRaj69)
+![Built with](https://img.shields.io/badge/built%20with-curiosity-d7b89c?style=flat-square) ![Profile Views](https://komarev.com/ghpvc/?username=itsMeRaj69)
 
 ## Skills  
 none *(**haha, you thought that?**)*
