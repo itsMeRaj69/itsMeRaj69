@@ -10,7 +10,7 @@
 ## Skills
 *(none, jk)*
 
-- **Languages:** Python, Java
+- **Languages:** Python, Java, Kotlin
 - **Frameworks:** Android SDK
 - **Tools:** Git, NeoVim, Termux, CodeAssist
 
