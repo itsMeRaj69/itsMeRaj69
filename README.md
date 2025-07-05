@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-![Lioren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsMeRaj69&show_icons=true&theme=radical)
+![Lioren's GitHub Stats](![itsMeRaj69's Stats](https://github-readme-stats.vercel.app/api?username=itsMeRaj69&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true))
 
 ## Connect with Me
 
