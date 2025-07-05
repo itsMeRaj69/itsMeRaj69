@@ -8,10 +8,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=itsMeRaj69) 
 
 ## Skills
+*(none, jk)*
 
 - **Languages:** Python, Java
 - **Frameworks:** Android SDK
-- **Tools:** Git, CodeAssist, Sketchware Pro, NeoVim, Termux
+- **Tools:** Git, NeoVim, Termux, CodeAssist
 
 ## Projects
 
@@ -23,7 +24,7 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsMeRaj69&show_icons=true&theme=radical)
+![Lioren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsMeRaj69&show_icons=true&theme=radical)
 
 ## Connect with Me
 
