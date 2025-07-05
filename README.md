@@ -6,7 +6,7 @@
 - 🎐 GitHub Grade: C+ – Certified Love Dev (I commit feelings more than code sometimes)
 - ❔ How to reach me: [Click Here!](https://github.com/itsMeRaj69#connect-with-me)
 
-![Built with](https://img.shields.io/badge/built%20with-curiosity-d7b89c?style=flat-square)  ![Views](https://img.shields.io/badge/profile%20views-%E2%89%AA%20you%20noticed-bca0bc?style=flat-square) 
+![Built with](https://img.shields.io/badge/built%20with-curiosity-d7b89c?style=flat-square)  ![Views](https://img.shields.io/badge/profile%20views-%E2%89%AA%20you%20noticed-c9c19f?style=flat-square) 
 
 ## Skills  
 none *(**haha, you thought that?**)*
