@@ -29,4 +29,3 @@ Here are some of the projects I've worked on:
 
 - [Discord](https://discord.com/users/892259622621151252)
 - [Telegram](https://iamraj69.t.me)
-- [Instagram](https://instagram.com/iam_raj.69)
