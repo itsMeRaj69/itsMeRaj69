@@ -1,7 +1,7 @@
 ## About Me
 
 - ❄️ Pronouns: He/Him (or cry/baby, soft/boi).
-- 🐥 I’m currently learning **Android app development** and **Python programming**.
+- 🐥 I’m currently learning **Android app development** and **Python**.
 - 🥢 Fun fact: **I'm a Human!** *I like learning new things – more like* `Jack of all trades, master of none!`
 - ❔ How to reach me: [Click Here!](https://github.com/itsMeRaj69#connect-with-me)
 
