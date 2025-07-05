@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=itsMeRaj69)
 
 ## Skills  
-none *(**jk**)*
+none *(**haha, you thought that?**)*
 
 - **Languages:** Python, Java, Kotlin  
 - **Frameworks:** Android SDK  
