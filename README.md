@@ -1,6 +1,6 @@
 ## About Me
 
-- ❄️ Pronouns: He/Him (or cry/baby, soft/boi).
+- ❄️ Pronouns: He/Him (or soft/boi).
 - 🐥 I’m currently learning **Android app development** and **Python**.
 - 🥢 Fun fact: **I'm a Human!** *I like learning new things – more like* `Jack of all trades, still finding the one worth mastering.`
 - 🎐 GitHub Grade: C+ – Certified Love Dev (I commit feelings more than code sometimes)
