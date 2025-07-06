@@ -9,7 +9,7 @@
 ![Built with](https://img.shields.io/badge/built%20with-curiosity-d7b89c?style=flat-square)  ![Views](https://img.shields.io/badge/profile%20views-%E2%89%AA%20you%20noticed-c9c19f?style=flat-square) 
 
 ## Skills  
-none *(**haha, you thought that?**)*
+none *(**haha, you really thought that?**)*
 
 - **Languages:** Python, Java, Kotlin  
 - **Frameworks:** Android SDK  
