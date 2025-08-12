@@ -1,15 +1,15 @@
 ## About Me
 
-- ❄️ Pronouns: He/Him (or soft/guy).
-- 🐥 I’m always on the lookout to try and test **everything** — whether it’s *tech-related* or something *in real life*, I like having at least a little knowledge about it.
-- 🥢 Fun fact: **I'm a Human!** *I like learning new things – more like* `Jack of all trades, still finding the one worth mastering.`
-- 🎐 GitHub Grade: C+ – Certified Love Dev (I commit feelings more than code sometimes)
-- ❔ Want to reach me?: [Click Here!](https://github.com/itsMeRaj69#connect-with-me)
+- Pronouns: he/him *(or just "soft/guy")*.  
+- I’m always on the lookout to try and test **everything** — whether it’s *tech-related* or something *in real life*, I like having at least a little knowledge about it.  
+- **A popular line in my tone?** `jack of all trades, still finding the one worth mastering.`  
+- GitHub Grade: C+ – Certified Love Dev (I commit feelings more than code sometimes)  
+- ❔ [**Want to reach me?**](https://github.com/itsMeRaj69#connect-with-me)  
 
-![Built with](https://img.shields.io/badge/built%20with-curiosity-d7b89c?style=flat-square)  ![Views](https://img.shields.io/badge/profile%20views-%E2%89%AA%20you%20noticed-c9c19f?style=flat-square) 
+![Built with](https://img.shields.io/badge/built%20with-curiosity-d7b89c?style=flat-square)  ![Views](https://img.shields.io/badge/profile%20views-%E2%89%AA%20you%20noticed-c9c19f?style=flat-square)   
 
 ## ~Skills~ Knowledge/Learning 
-*(Having only a plenty of knowledge and calling it a skill will be such a shame)*
+*(Having only a plenty of knowledge and calling it a skill will be such a shame)*  
 
 - **Languages:** Python, Java, Kotlin  
 - **Frameworks:** Android SDK  
@@ -17,18 +17,18 @@
 
 ## Projects
 
-Here are some of the projects I've worked on:
+Here are some of the projects I've worked on:  
 
 - [Localtonet MC](https://github.com/itsMeRaj69/localtonet-mc) – Publish your Minecraft server to the internet using LocaltoNet.  
-- [Tailscale in Codespaces](https://github.com/itsMeRaj69/tailscale-codespaces) – Run Tailscale VPN inside of GitHub Codespaces.
-- [Re-Prism](https://github.com/itsMeRaj69/Re-Prism) - My personal changes to the official Prism Launcher.
-- Personal Portfolio – `Coming Soon!`
+- [Tailscale in Codespaces](https://github.com/itsMeRaj69/tailscale-codespaces) – Run Tailscale VPN inside of GitHub Codespaces.  
+- [Re-Prism](https://github.com/itsMeRaj69/Re-Prism) - My personal changes to the official Prism Launcher.  
+- Personal Portfolio – `Coming Soon!`  
 
 ## GitHub Stats
 
-![itsMeRaj69's Stats](https://github-readme-stats.vercel.app/api?username=itsMeRaj69&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
+![itsMeRaj69's Stats](https://github-readme-stats.vercel.app/api?username=itsMeRaj69&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)  
 
 ## Connect with Me
 
 - [Discord](https://discord.com/users/892259622621151252)  
-- [Telegram](https://iamraj69.t.me)
+- [Telegram](https://iamraj69.t.me)  
