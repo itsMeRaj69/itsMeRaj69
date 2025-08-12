@@ -3,15 +3,15 @@
 - Pronouns: he/him *(or just "soft/guy")*.  
 - I’m always on the lookout to try and test **everything** — whether it’s *tech-related* or something *in real life*, I like having at least a little knowledge about it.  
 - **A popular line in my tone?** `jack of all trades, still finding the one worth mastering.`  
-- GitHub Grade: C+ – Certified Love Dev (I commit feelings more than code sometimes)  
+- GitHub Grade: C+ – Certified Love Dev *(I commit feelings more than code sometimes)*  
 - [**Want to reach me?**](#connect-with-me)  
 
 ![Built with](https://img.shields.io/badge/built%20with-curiosity-d7b89c?style=flat-square)  ![Views](https://img.shields.io/badge/profile%20views-%E2%89%AA%20you%20noticed-c9c19f?style=flat-square)   
 
-## ~Skills~ Knowledge/Learning 
-*(Having only a plenty of knowledge and calling it a skill will be such a shame)*  
+## ~Skills~ Knowledge / Learning 
+*(Having only a plenty of knowledge and calling it a skill would be such a shame)*  
 
-- **Languages:** Python, Java, Kotlin  
+- **Languages:** Python • Java • Kotlin  
 - **Frameworks:** Android SDK  
 - **Tools:** Git, NeoVim, Termux, CodeAssist  
 
