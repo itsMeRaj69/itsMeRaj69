@@ -1,15 +1,15 @@
 ## About Me
 
-- ❄️ Pronouns: He/Him (or soft/boi).
-- 🐥 I’m currently learning **Android app development** and **Python**.
+- ❄️ Pronouns: He/Him (or soft/guy).
+- 🐥 I’m always on the lookout to try and test **everything** — whether it’s *tech-related* or something *in real life*, I like having at least a little knowledge about it.
 - 🥢 Fun fact: **I'm a Human!** *I like learning new things – more like* `Jack of all trades, still finding the one worth mastering.`
 - 🎐 GitHub Grade: C+ – Certified Love Dev (I commit feelings more than code sometimes)
-- ❔ How to reach me: [Click Here!](https://github.com/itsMeRaj69#connect-with-me)
+- ❔ Want to reach me?: [Click Here!](https://github.com/itsMeRaj69#connect-with-me)
 
 ![Built with](https://img.shields.io/badge/built%20with-curiosity-d7b89c?style=flat-square)  ![Views](https://img.shields.io/badge/profile%20views-%E2%89%AA%20you%20noticed-c9c19f?style=flat-square) 
 
-## Skills  
-none *(**haha, you really thought that?**)*
+## ~Skills~ Knowledge/Learning 
+*(Having only a plenty of knowledge and calling it a skill will be such a shame)*
 
 - **Languages:** Python, Java, Kotlin  
 - **Frameworks:** Android SDK  
