@@ -11,9 +11,9 @@
 ## ~Skills~ Knowledge / Learning 
 *(Having only a plenty of knowledge and calling it a skill would be such a shame)*  
 
-- **Languages:** Python • Java • Kotlin  
+- **Languages:** Python · Java · Kotlin  
 - **Frameworks:** Android SDK  
-- **Tools:** Git, NeoVim, Termux, CodeAssist  
+- **Tools:** Git · NeoVim · Termux · CodeAssist  
 
 ## Projects
 
