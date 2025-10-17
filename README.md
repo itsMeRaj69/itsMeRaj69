@@ -1,3 +1,5 @@
+![Header Image](https://raw.githubusercontent.com/itsMeRaj69/itsMeRaj69/refs/heads/main/assets/github-header-banner.png)
+
 ## About Me
 
 - Pronouns: he/him *(or just "soft/guy")*.  
