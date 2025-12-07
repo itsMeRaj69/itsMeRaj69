@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-![itsMeRaj69's Stats](https://lioren-github-readme-stats.vercel.app/api?username=itsMeRaj69&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)  
+![itsMeRaj69's Stats](https://lioren-github-readme-stats.vercel.app/api?username=itsMeRaj69&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)  
 
 ## Connect with Me
 
