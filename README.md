@@ -1,4 +1,4 @@
-![Header Image](https://raw.githubusercontent.com/itsMeRaj69/itsMeRaj69/refs/heads/main/assets/github-header-banner.png)
+![Header Image](https://raw.githubusercontent.com/itsMeRaj69/itsMeRaj69/refs/heads/main/assets/banner.png)
 
 ## About Me
 
