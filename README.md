@@ -22,7 +22,6 @@ Here are some of the projects I've worked on:
 
 - [Localtonet MC](https://github.com/itsMeRaj69/localtonet-mc) – Publish your Minecraft server to the internet using LocaltoNet.  
 - [Tailscale in Codespaces](https://github.com/itsMeRaj69/tailscale-codespaces) – Run Tailscale VPN inside of GitHub Codespaces.  
-- [Re-Prism](https://github.com/itsMeRaj69/Re-Prism) - My personal changes to the official Prism Launcher.  
 - Personal Portfolio – https://lioren.me `WIP`  
 
 ## GitHub Stats
