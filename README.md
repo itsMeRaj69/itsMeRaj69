@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-![itsMeRaj69's Stats](https://github-readme-stats.vercel.app/api?username=itsMeRaj69&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Stats](./stats.svg)
 
 ## Connect with Me
 
