@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-![Stats](./stats.svg)
+![Stats](./profile/stats.svg)
 
 ## Connect with Me
 
