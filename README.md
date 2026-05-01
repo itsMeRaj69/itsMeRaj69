@@ -20,7 +20,7 @@
 
 Here are some of the projects I've worked on:  
 
-- [Tailscale in Codespaces](https://github.com/itsMeRaj69/tailscale-codespaces) – Run Tailscale VPN inside of GitHub Codespaces.  
+- [Tailscale - No Sudo](https://github.com/itsMeRaj69/tailscale-nosudo) – Run Tailscale VPN inside linux machines without sudo privileges.  
 - Personal Portfolio – https://lioren.me `WIP`  
 
 ## GitHub Stats
