@@ -2,7 +2,6 @@
 
 ## About Me
 
-- Pronouns: he/him *(or just "soft/guy")*.  
 - I’m always on the lookout to try and test **everything** — whether it’s *tech-related* or something *in real life*, I like having at least a little knowledge about it.  
 - **A popular line in my tone?** `jack of all trades, still finding the one worth mastering.`  
 - [**Want to reach me?**](#connect-with-me)  
@@ -12,9 +11,9 @@
 ## ~Skills~ Knowledge / Learning 
 *(Having only a plenty of knowledge and calling it a skill would be such a shame)*  
 
-- **Languages:** Python · Java · Kotlin  
+- **Languages:** Python · Java · Kotlin · HTML
 - **Frameworks:** Android SDK  
-- **Tools:** Git · NeoVim · Termux · CodeAssist  
+- **Tools:** Git · NeoVim · Termux 
 
 ## Projects
 
