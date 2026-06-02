@@ -28,5 +28,5 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 
-- [Discord](https://discord.lioren.me)  
+- [Discord](https://lioren.me/discord)  
 - [Telegram](https://iamraj69.t.me)  
