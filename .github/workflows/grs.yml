@@ -20,7 +20,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&theme=catppuccin_mocha&hide_border=false
-          path: profile/stats.svg
+          path: assets/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
@@ -28,15 +28,15 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-          path: profile/top-langs.svg
+          path: assets/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=itsMeRaj69&repo=letswatch
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=itsMeRaj69&repo=tailscale-nosudo
+          path: assets/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit cards

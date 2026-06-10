@@ -25,6 +25,7 @@ Here are some of the projects I've worked on:
 ## GitHub Stats
 
 ![Stats](./profile/stats.svg)
+![Top Languages](./top-langs.svg)
 
 ## Connect with Me
 
