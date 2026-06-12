@@ -20,7 +20,7 @@
 Here are some of the projects I've worked on:  
 
 - [Tailscale - No Sudo](https://github.com/itsMeRaj69/tailscale-nosudo) – Run Tailscale VPN inside linux machines without sudo privileges.  
-- Personal Portfolio – https://lioren.me `WIP`  
+- [Project 69](https://github.com/itsMeRaj69/project69-template) - Sets of backup/startup scripts for github codespaces.
 
 ## GitHub Stats
 
@@ -29,5 +29,7 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 
-- [Discord](https://lioren.me/discord)  
-- [Telegram](https://iamraj69.t.me)  
+[![Discord Badge](https://img.shields.io/badge/Join%20Discord-CBA6F7?style=for-the-badge&logo=discord&logoColor=1E1E2E&logoSize=auto)](https://discord.gg/P76f2tVdzR)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-89B4FA?style=for-the-badge&logo=telegram&logoColor=1E1E2E)](https://t.me/iamraj69)
+
+
