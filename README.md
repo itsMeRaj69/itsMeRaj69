@@ -20,7 +20,7 @@
 Here are some of the projects I've worked on:  
 
 - [Tailscale - No Sudo](https://github.com/itsMeRaj69/tailscale-nosudo) – Run Tailscale VPN inside linux machines without sudo privileges.  
-- [Project 69](https://github.com/itsMeRaj69/project69-template) - Sets of backup/startup scripts for github codespaces.
+- [Project 69](https://github.com/itsMeRaj69/project69) - Sets of backup/startup scripts for Github Codespaces.
 
 ## GitHub Stats
 
