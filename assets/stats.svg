@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Lioren's GitHub Stats, Rank: C+</title>
+        <title id="titleId">Rhydin Lioren's GitHub Stats, Rank: C+</title>
         <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 87, Total PRs: 8, Total Issues: 21, Contributed to (last year): 11</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 205.74993471000795;
+        stroke-dashoffset: 206.30109131590092;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Lioren's GitHub Stats</text>
+      >Rhydin Lioren's GitHub Stats</text>
     </g>
       </g>
     
