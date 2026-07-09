@@ -1,4 +1,4 @@
-![Header Image](https://raw.githubusercontent.com/itsMeRaj69/itsMeRaj69/refs/heads/main/assets/banner.png)
+![Header Image](https://raw.githubusercontent.com/rhydinlioren/rhydinlioren/refs/heads/main/assets/banner.png)
 
 ## About Me
 
@@ -19,8 +19,8 @@
 
 Here are some of the projects I've worked on:  
 
-- [Tailscale - No Sudo](https://github.com/itsMeRaj69/tailscale-nosudo) – Run Tailscale VPN inside linux machines without sudo privileges.  
-- [Project 69](https://github.com/itsMeRaj69/project69) - Sets of backup/startup scripts for Github Codespaces.
+- [Tailscale - No Sudo](https://github.com/rhydinlioren/tailscale-nosudo) – Run Tailscale VPN inside linux machines without sudo privileges.  
+- [Project 69](https://github.com/rhydinlioren/project69) - Sets of backup/startup scripts for Github Codespaces.
 
 ## GitHub Stats
 
